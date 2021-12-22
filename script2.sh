@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "state = TX "
+echo "state = CA "
