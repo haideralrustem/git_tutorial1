@@ -3,6 +3,5 @@
 
 echo "This is a 2nd script file";
 
-echo "I made NEW CHANGES HERE";
-
+echo "the NEW CHANGES HERE were not";
 
